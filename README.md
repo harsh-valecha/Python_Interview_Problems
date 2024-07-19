@@ -12,3 +12,5 @@ Problem statements :-
    - saving screenshots for failed testcases
    - saving logs
    - Data driven testing
+  
+4. Can you create a script that compares two csv files and provides all the mismatches in python ?
